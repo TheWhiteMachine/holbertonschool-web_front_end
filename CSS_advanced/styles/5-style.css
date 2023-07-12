@@ -1,6 +1,7 @@
-/* task 5 html { */
-scroll-behavior: smooth;
-font-size: 62.2%;
+/* task 5  */
+html {
+	scroll-behavior: smooth;
+	font-size: 62.2%;
 }
 
 :root {
@@ -31,7 +32,7 @@ h6 {
 body {
 	color: var(--text-color);
 	font-family: var(--font-family-base);
-	font-size: var var(--font-size-medium);
+	font-size: var(--font-size-medium);
 }
 
 a {
