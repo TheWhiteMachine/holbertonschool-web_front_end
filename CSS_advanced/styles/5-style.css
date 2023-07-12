@@ -17,7 +17,6 @@ html {
 	--font-size-large: 1.8rem;
 	--font-size-x-large: 2.3rem;
 	--font-size-xx-large: 4.8rem;
-
 }
 
 h1,
@@ -31,11 +30,8 @@ h6 {
 
 body {
 	color: var(--text-color);
-
 	font-family: var(--font-family-base);
-
 	font-size: var var(--font-size-medium);
-
 }
 
 a {
