@@ -43,7 +43,7 @@ h4,
 h5,
 h6 {
 	font-family: var(--font-family-title);
-
+	font-weight: var(--font-weight-bold);
 }
 
 body {
@@ -77,10 +77,14 @@ a:link {
 
 .section-tagline {
 	color: var(--color-primary);
-	text-align: var(--section-header-align);
 	font-family: var(--font-family-title);
 	text-transform: var(--section-tagline-transform);
 	font-weight: var(--font-weight-bold);
+
+}
+
+.section-title {
+	font-family: var(--font-family-title);
 	font-size: var(--font-size-xx-large);
 	margin: var(--section-title-margin);
 	color: var(--section-title-color);
