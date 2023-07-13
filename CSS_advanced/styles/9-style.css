@@ -51,6 +51,7 @@ body {
 
 .a {
 	color: var(--text-color);
+	text-decoration: none !important;
 }
 
 a:link {
