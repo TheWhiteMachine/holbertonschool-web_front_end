@@ -49,15 +49,12 @@ body {
 
 
 
-a {
+.a {
 	color: var(--text-color);
-	text-decoration: none !important;
-	text-decoration-line: none;
 }
 
 a:link {
 	text-decoration: none !important;
-	cursor: pointer;
 }
 
 
