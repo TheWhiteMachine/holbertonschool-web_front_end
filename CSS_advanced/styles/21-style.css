@@ -140,7 +140,7 @@ ul.row {
 
 [class^="col-"] {
 	float: left;
-	padding: 50vw;
+	padding: 0.5rem;
 }
 
 .footer-copyright {
