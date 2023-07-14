@@ -168,7 +168,7 @@ ul.row {
 
 }
 
-.card-services>.card-title {
+.card-services card-title {
 	margin: 0;
 }
 
@@ -241,7 +241,7 @@ ul.row {
 
 }
 
-.nav .nav-tems {
+.nav .nav-item {
 	font-family: var(--nav-item-font-family);
 	font-weight: var(--nav-item-font-weight);
 	font-size: var(--nav-item-font-size);
@@ -253,7 +253,7 @@ ul.row {
 .nav .nav-link {
 	display: block;
 	padding: 0.5rem 1rem;
-	;
+
 }
 
 .nav .nav-link:hover {
@@ -542,6 +542,6 @@ footer {
 
 }
 
-.social-link>svg {
+.social-link svg {
 	fill: var(--text-color);
 }
